@@ -13,12 +13,12 @@ local PlayerGui = LocalPlayer.PlayerGui
 
 -- Palet Warna Creamy Coklat
 local CreamyTheme = {
-    MainBg = Color3.fromRGB(28, 23, 20),       -- Coklat Tua Gelap (Background utama)
-    CardBg = Color3.fromRGB(42, 35, 31),       -- Coklat Medium (Rows / Button base)
-    Accent = Color3.fromRGB(150, 121, 105),    -- Coklat Susu / Creamy Milk Chocolate (Aksen Utama)
-    LightCream = Color3.fromRGB(225, 198, 153),-- Krem Terang (Teks Highlight / Toggle ON)
-    Border = Color3.fromRGB(61, 52, 47),       -- Garis Batas / Stroke
-    TextWhite = Color3.fromRGB(245, 240, 235), -- Putih Tulang
+    MainBg = Color3.fromRGB(28, 23, 20),       
+    CardBg = Color3.fromRGB(42, 35, 31),       
+    Accent = Color3.fromRGB(150, 121, 105),    
+    LightCream = Color3.fromRGB(225, 198, 153),
+    Border = Color3.fromRGB(61, 52, 47),       
+    TextWhite = Color3.fromRGB(245, 240, 235), 
 }
 
 function Library:Parent()
